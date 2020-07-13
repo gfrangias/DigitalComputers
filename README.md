@@ -1,6 +1,6 @@
 # DigitalComputers
 All the laboratory projects of the course Digital Computers at [Technical University of Crete](https://www.tuc.gr/index.php?id=5397)
-Using SPIM Assembly
+using SPIM Assembly
 
 ## Laboratories
 1. LAB1 - A simple assembly "hello world!" program 
